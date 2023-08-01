@@ -1,7 +1,7 @@
-### 👋 Hey there! I'm Paridhi
-A passionate Electronics and Communication Engineering student with an insatiable curiosity for Python, Machine Learning, and Data Science.
+### 👋 Hey there!
+I am a passionate Electronics and Communication Engineering student with a curiosity for Python, Machine Learning, and Data Science.
 I love diving into the realm of technology and uncovering innovative solutions. My repositories are a reflection of my journey, showcasing projects and code that exemplify my dedication to these fields. Together, let's embark on an exciting adventure of continuous learning and exploration.
-Feel free to connect and collaborate; I'm always eager to engage in meaningful discussions and grow together in this ever-evolving tech world.🚀
+I'm always eager to engage in meaningful discussions and grow together in this ever-evolving tech world.🚀
 
 
 # 💻 Tech Stack:
