@@ -1,5 +1,5 @@
 ### 👋 Hey there!
-I am a passionate Electronics and Communication Engineering student with a curiosity for Python, Machine Learning, and Data Science.
+I am a passionate engineering student with a curiosity for Python, Machine Learning, and Data Science.
 I love diving into the realm of technology and uncovering innovative solutions. My repositories are a reflection of my journey, showcasing projects and code that exemplify my dedication to these fields. Together, let's embark on an exciting adventure of continuous learning and exploration.
 I'm always eager to engage in meaningful discussions and grow together in this ever-evolving tech world.🚀
 
