@@ -9,5 +9,3 @@ I'm always eager to engage in meaningful discussions and grow together in this e
 ![](https://github-readme-stats.vercel.app/api?username=parridhi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=parridhi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=parridhi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-[![An image of @parridhi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/parridhi)](https://holopin.io/@parridhi)
